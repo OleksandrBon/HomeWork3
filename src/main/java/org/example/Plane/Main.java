@@ -8,6 +8,6 @@ public class Main {
         plane.boardPassenger("Anna Goreva", 1);
         plane.boardPassenger("Ksenia Shalyhina", 2);
 
-        System.out.println("are you ready?");
+        System.out.println("are you crazy?");
     }
 }
